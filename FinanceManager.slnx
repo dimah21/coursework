@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="scr\FinanceManager.BusinessLogic\FinanceManager.BusinessLogic.csproj" Type="Classic C#" />
+  <Project Path="scr\FinanceManager.ConsoleUI\FinanceManager.ConsoleUI.csproj" Type="Classic C#" />
+  <Project Path="scr\FinanceManager.DataAccess\FinanceManager.DataAccess.csproj" Type="Classic C#" />
+  <Project Path="scr\FinanceManager.Models\FinanceManager.Models.csproj" Type="Classic C#" />
+  <Project Path="tests\FinanceManager.Tests\FinanceManager.Tests.csproj" Type="Classic C#" />
+</Solution>
