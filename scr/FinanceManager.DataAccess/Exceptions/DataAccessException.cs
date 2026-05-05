@@ -1,6 +1,9 @@
 namespace FinanceManager.DataAccess.Exceptions;
 
-public class DataAccessException
+public class DataAccessException : Exception
 {
-    
+    public DataAccessException(string message, Exception innerException) : base(message, innerException)
+    {
+        
+    }
 }
