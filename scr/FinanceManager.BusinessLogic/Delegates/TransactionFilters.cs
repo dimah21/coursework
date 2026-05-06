@@ -1,6 +1,3 @@
 namespace FinanceManager.BusinessLogic.Delegates;
-
-public class TransactionFilters
-{
-    
-}
+using FinanceManager.Models.Entities;
+public delegate bool TransactionFilter(Transaction transaction);
